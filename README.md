@@ -21,6 +21,7 @@ These implementations are in order of high level to low level. Click on the link
 More languages may be added in the future.
 
 - [Python](python/)
+- [JavaScript](javascript/)
 - [Go](go/)
 - [Rust](rust/)
 - [C++](cpp/)
