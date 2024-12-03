@@ -22,6 +22,7 @@ More languages may be added in the future.
 
 - [Python](python/)
 - [JavaScript](javascript/)
+- [Java](java/)
 - [Go](go/)
 - [Rust](rust/)
 - [C++](cpp/)

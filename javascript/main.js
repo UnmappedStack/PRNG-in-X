@@ -15,7 +15,7 @@ const INC = 12345
  * Return:
  *    The new random number.
  */
-function gen_num(prev) {
+function genNum(prev) {
     return (MUL * prev + INC) % MOD;
 }
 
@@ -26,8 +26,8 @@ function gen_num(prev) {
  * Return:
  *    Status code, 0 for success.
  */
-let current_val = Date.now();
+let currentVal = Date.now();
 for (let i = 0; i < 10; i++) {
-    current_val = gen_num(current_val);
-    console.log("%i: Generated number: %i", i, current_val);
+    currentVal = genNum(currentVal);
+    console.log("%i: Generated number: %i", i, currentVal);
 }
