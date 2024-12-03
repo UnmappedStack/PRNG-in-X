@@ -23,6 +23,7 @@ More languages may be added in the future.
 - [Python](python/)
 - [Go](go/)
 - [Rust](rust/)
+- [C++](cpp/)
 - [C](C/)
 - [x86-64 Assembly (NASM)](assembly/)
 
