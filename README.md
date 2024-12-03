@@ -23,7 +23,7 @@ More languages may be added in the future.
 - [Python](python/)
 - [Rust](rust/)
 - [C](C/)
-- [x86-64 Assembly (NASM)](Assembly/)
+- [x86-64 Assembly (NASM)](assembly/)
 
 ## License
 
